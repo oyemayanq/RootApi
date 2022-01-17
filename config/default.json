@@ -1,0 +1,4 @@
+{
+    "tokenKey": "jwttokenkey",
+    "mongoUri": "mongodb+srv://oyemayanq:passwordhai@root.qbkgu.mongodb.net/root?retryWrites=true&w=majority"
+}
