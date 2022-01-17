@@ -1,7 +1,0 @@
-{
-    "env": {
-        "DB_USER": "oyemayanq",
-        "DB_PASSWORD": "passwordhai",
-        "DB_NAME": "root"
-    }
-}
